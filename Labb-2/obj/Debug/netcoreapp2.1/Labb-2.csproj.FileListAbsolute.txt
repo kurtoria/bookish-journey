@@ -1,0 +1,10 @@
+/Users/victoriagronqvist/Desktop/iths/c#/labb-2/Labb-2/Labb-2/obj/Debug/netcoreapp2.1/Labb-2.csproj.CoreCompileInputs.cache
+/Users/victoriagronqvist/Desktop/iths/c#/labb-2/Labb-2/Labb-2/obj/Debug/netcoreapp2.1/Labb-2.AssemblyInfoInputs.cache
+/Users/victoriagronqvist/Desktop/iths/c#/labb-2/Labb-2/Labb-2/obj/Debug/netcoreapp2.1/Labb-2.AssemblyInfo.cs
+/Users/victoriagronqvist/Desktop/iths/c#/labb-2/Labb-2/Labb-2/bin/Debug/netcoreapp2.1/Labb-2.deps.json
+/Users/victoriagronqvist/Desktop/iths/c#/labb-2/Labb-2/Labb-2/bin/Debug/netcoreapp2.1/Labb-2.runtimeconfig.json
+/Users/victoriagronqvist/Desktop/iths/c#/labb-2/Labb-2/Labb-2/bin/Debug/netcoreapp2.1/Labb-2.runtimeconfig.dev.json
+/Users/victoriagronqvist/Desktop/iths/c#/labb-2/Labb-2/Labb-2/bin/Debug/netcoreapp2.1/Labb-2.dll
+/Users/victoriagronqvist/Desktop/iths/c#/labb-2/Labb-2/Labb-2/bin/Debug/netcoreapp2.1/Labb-2.pdb
+/Users/victoriagronqvist/Desktop/iths/c#/labb-2/Labb-2/Labb-2/obj/Debug/netcoreapp2.1/Labb-2.dll
+/Users/victoriagronqvist/Desktop/iths/c#/labb-2/Labb-2/Labb-2/obj/Debug/netcoreapp2.1/Labb-2.pdb
